@@ -18,8 +18,8 @@ let news = [{
         "content":"President Ram Nath Kovind arrived in Goa on Sunday for his three-day-long visit to the state, during which he is scheduled to take part in an event organised by the Navy. An aircraft carrying Mr. Kovind arrived at Dabolim airport in the afternoon, from where he was flown in a helicopter to Bambolim helipad. He was welcomed by state Deputy Chief Minister Chandrakant Kavlekar and Protocol Minister Mauvin Godinho there. Mr. Kovind will present the President's Colour to naval aviation on Monday morning during the event being hosted by INS Hansa, a naval air station located near Dabolim.'The event coincides with the diamond jubilee of INS Hansa and the liberation of Goa,' a Navy spokesman said in a media release here. The Naval Jet Flight set up at Coimbatore in 1958 with Sea Hawk, Alize and Vampire aircraft, was later commissioned as INS Hansa on September 5, 1961. After the liberation of Goa, Dabolim airfield was taken over by the Navy in April 1962 and INS Hansa was shifted to Dabolim in June 1964. 'Commissioned as a modest air station with only a few aircraft, INS Hansa has increased its prowess over the last six decades and is presently operating over 40 military aircraft, clocking an average yearly flying of over 5,000 hours. The air station also supports civil aviation by handling domestic and international flights 24x7, with an average of 29,000 flights in a year,' the spokesman said. INS Hansa is the abode of the Indian Navy's frontline air squadrons - INAS 310 'Cobras' with Dornier-228 aircraft, INAS 315 'Winged Stallions' with the long range maritime patrol aircraft IL-38SD, INAS 339 'Falcons' with the airborne early warning Kamov-31 helicopter; INAS 303 'Black Panthers' and INAS 300 ' White Tigers' with the supersonic carrier-borne MiG 29K fighters, and INAS 323 'Harriers' with ALH Mk III helicopters, he said. 'The air station will soon operate the Boeing P8I long range maritime reconnaissance aircraft with the commissioning of INAS 316,' the spokesman added."
       }
     ],
-    "ad1":"nike.jpg",
-    "ad2":"invad.jfif"
+    "ad1":"images/nike.jpg",
+    "ad2":"images/invad.jfif"
   },
   {
     "date":"sep6",
@@ -41,8 +41,8 @@ let news = [{
         "content":"On receding mode, the floods in Assam claimed one more human life and two rhinos on Monday.According to the Assam State Disaster Management Authority (ASDMA), eight persons have drowned or were washed away by the floods so far, while the number of affected people has come down to 43,416 across 12 districts. A statement issued by the Kaziranga National Park and Tiger Reserve authorities said two rhinos were found dead in the wildlife reserve, 30% of which is flooded now. While one rhino drowned, the other died of natural causes, officials said. Besides the rhinos, the flood killed 22 other Kaziranga animals. Half of these – nine hog deer, a python and a capped langur – were hit by vehicles while trying to move from the hills beyond a highway to the south of the national park."
       }
     ],
-    "ad1":"usopen.png",
-    "ad2":"uni.png"
+    "ad1":"images/usopen.png",
+    "ad2":"images/uni.png"
   },
   {
     "date":"sep7",
@@ -64,8 +64,8 @@ let news = [{
         "content":"The cumulative number of COVID-19 vaccine doses administered in the country crossed the 70 crore mark on Tuesday. The last 10 crore doses were given in just 13 days, the fastest so far, the Union Health Ministry said. Union Minister for Health and Family Welfare Mansukh Mandaviya on Twitter congratulated all the health workers and public for the “momentous achievement”.The seven-day average number of doses administered daily has been consistently improving since August-end. The average daily doses have improved from around 50 lakh in mid-August to 83 lakh at the end of September first week. To fully vaccinate all adults by 2021, over 1 crore vaccinations have to be done every day in the remaining days. So far, this mark has been crossed on three days — August 27 (1.07 crore), August 31 (1.35 crore) and September 6 (1.15 crore). On Tuesday, as of 7 p.m., 72,40,929 doses have been administered. The countrywide vaccination drive was rolled out on January 16, with healthcare workers (HCWs) getting inoculated in the first phase. The vaccination of frontline workers (FLWs) started from February 2. The next phase commenced from March 1 for people over 60 years and those aged 45 and above with specified comorbid conditions. The country launched vaccination for all people aged more than 45 years from April 1. The government then expanded the drive by allowing everyone above 18 to be vaccinated from May 1. As on Tuesday, 56.6% of the Indian adult population has been vaccinated with at least one dose of the COVID-19 vaccine. Also, 17.4% of the adult population has been vaccinated with both doses. In eight States/Union Territories (UTs), including Uttar Pradesh, Bihar, West Bengal and Jharkhand, the share of adults with at least one dose administered remains below the 50% mark. In nine States/UTs, including Uttarakhand, Himachal Pradesh and Sikkim, the share has increased beyond the 80% mark. In 17 States/UTs, including Tamil Nadu, Punjab, Madhya Pradesh, Odisha and Maharashtra, the share of adults with both the doses administered remains below the 20% mark. In seven States/UTs, the share has increased beyond the 30% mark"
       }
     ],
-    "ad1":"antivirus.jpg",
-    "ad2":"covid.jfif"
+    "ad1":"images/antivirus.jpg",
+    "ad2":"images/covid.jfif"
   },
   {
     "date":"sep8",
@@ -87,8 +87,8 @@ let news = [{
         "content":"Sun Pharma said it’s consumer healthcare division, has forayed into the nutrition-bar segment in India with the introduction of Revital NXT. The product is a brand extension of Revital H, a health supplement for over three decades. It has been rolled out in two variants viz. Revital Energy NXT and Revital Protein NXT. “With increasing health consciousness and active lifestyles, there has been a rising demand for on-the-go nutrition,” said Vidhi Shanghai, head, Sun Pharma Consumer Healthcare. “Our newest product — Revital NXT bar — powered with natural Ginseng - the same core ingredient that fuels Revital H — helps you stay active and ace life's demands on the go.”"
       }
     ],
-    "ad1":"apple.jpg",
-    "ad2":"sunpharma.jpg"
+    "ad1":"images/apple.jpg",
+    "ad2":"images/sunpharma.jpg"
   },
   {
     "date":"sep9",
@@ -110,8 +110,8 @@ let news = [{
         "content":"Volkswagen Passenger Cars India has rolled out a subscription-based car ownership model, in association with ORIX, a mobility solutions provider. In 2019 the company had introduced Power Lease programme in association with ORIX and now, the tie-up has further been enhanced with the new offering. Under Phase-I, the subscription-based service will be available at 30 outlets in seven cities. Through this offering, customers will avail 100% on-road financing, periodic maintenance, insurance cover and an option to upgrade or return the car. They can opt for a Polo, Vento or T-Roc, which will be available in 24, 36 and 48 months tenure. Ashish Gupta, Brand Director, said, “Car subscription is gaining popularity, especially amongst the urban young middle class, looking for a convenient ownership experience.”"
       }
     ],
-    "ad1":"whatsapp.jpg",
-    "ad2":"volkswagen.jpg"
+    "ad1":"images/whatsapp.jpg",
+    "ad2":"images/volkswagen.jpg"
   }
 ]
 
